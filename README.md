@@ -11,3 +11,8 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 - [Python 2](Python2.py), 21 bytes
 - [Python 3](Python3.py), 23 bytes
 - [Ruby](Ruby.rb), 20 bytes
+
+## Contributing
+To add another language, you must:
+- Create the file with the name `<language-name>.<file-extension>`
+- Add an entry in [README.md] like: `[<language name>](<file-name>), <byte-count> bytes`
