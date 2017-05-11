@@ -1,1 +1,1 @@
-puts("Hello, World!");
+main(){puts("Hello, World!");}
