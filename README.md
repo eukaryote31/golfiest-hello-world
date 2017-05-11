@@ -15,4 +15,4 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 ## Contributing
 To add another language, you must:
 - Create the file with the name `<language-name>.<file-extension>`
-- Add an entry in [README.md] like: `[<language name>](<file-name>), <byte-count> bytes`
+- Add an entry in [README.md](README.md) like so: `[<language name>](<file-name>), <byte-count> bytes` (notice the list is alphabetical)
