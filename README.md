@@ -9,4 +9,4 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 - [JavaScript](https://github.com/totallyhuman/golfiest-hello-world/blob/master/JavaScript.js), 29 bytes
 - [Python 2](https://github.com/totallyhuman/golfiest-hello-world/blob/master/Python2.py), 21 bytes
 - [Python 3](https://github.com/totallyhuman/golfiest-hello-world/blob/master/Python3.py), 23 bytes
-- [Brainf*ck] (https://github.com/totallyhuman/golfiest-hello-world/blob/master/Python3.py), 128 bytes
+- [Brainf*ck](https://github.com/totallyhuman/golfiest-hello-world/blob/master/BrainF*ck.b), 128 bytes
