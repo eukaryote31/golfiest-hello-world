@@ -8,7 +8,7 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 - [Java](Java.java), 80 bytes
     - Rename file to H.java to run.
 - [JavaScript](JavaScript.js), 29 bytes
-- [LOLCODE](LOLCODE.lol), 24 bytes
+- [LOLCODE](LOLCODE.lol), 23 bytes
 - [Python 2](Python2.py), 21 bytes
 - [Python 3](Python3.py), 23 bytes
 - [Ruby](Ruby.rb), 20 bytes
