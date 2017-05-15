@@ -3,6 +3,7 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 
 ## Languages
 - (ArnoldC)[ArnoldC.arnoldc], 71 bytes
+- (Bash)[Bash.sh], 18 bytes
 - (BrainF*ck)[BrainF*ck.b], 128 bytes
 - (C)[C.c], 30 bytes
 - (Go)[Go.go], 61 bytes
