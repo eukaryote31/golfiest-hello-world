@@ -2,18 +2,18 @@
 Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 
 ## Languages
-- (ArnoldC)[ArnoldC.arnoldc], 71 bytes
-- (Bash)[Bash.sh], 18 bytes
-- (BrainF*ck)[BrainF*ck.b], 128 bytes
-- (C)[C.c], 30 bytes
-- (Go)[Go.go], 61 bytes
-- (Java)[Java.java], 79 bytes
+- [ArnoldC](ArnoldC.arnoldc), 71 bytes
+- [Bash](Bash.sh), 18 bytes
+- [BrainF*ck](BrainF*ck.b), 128 bytes
+- [C](C.c), 30 bytes
+- [Go](Go.go), 61 bytes
+- [Java](Java.java), 79 bytes
     - Rename file to H.java to run.
-- (JavaScript)[JavaScript.js], 28 bytes
-- (LOLCODE)[LOLCODE.lol], 22 bytes
-- (Python2)[Python2.py], 20 bytes
-- (Python3)[Python3.py], 22 bytes
-- (Ruby)[Ruby.rb], 22 bytes
+- [JavaScript](JavaScript.js), 28 bytes
+- [LOLCODE](LOLCODE.lol), 22 bytes
+- [Python2](Python2.py), 20 bytes
+- [Python3](Python3.py), 22 bytes
+- [Ruby](Ruby.rb), 22 bytes
 
 ## Contributing
 To add another language, you must:
