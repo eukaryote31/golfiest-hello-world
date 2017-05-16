@@ -6,6 +6,7 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 - [Bash](Bash.sh), 18 bytes
 - [BrainF*ck](BrainF*ck.b), 128 bytes
 - [C](C.c), 30 bytes
+- [Elixir](Elixir.ex), 22 bytes
 - [Go](Go.go), 61 bytes
 - [Java](Java.java), 79 bytes
     - Rename file to H.java to run.
