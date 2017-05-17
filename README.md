@@ -14,6 +14,7 @@ Repository to compete with @kaliumxyz's. Because I'm just immature like that.
 - [Lisp](Lisp.lisp), 22 bytes
 - [LOLCODE](LOLCODE.lol), 22 bytes
 - [Lua](Lua.lua), 20 bytes
+- [Perl](Perl.pl), 20 bytes
 - [Python2](Python2.py), 20 bytes
 - [Python3](Python3.py), 22 bytes
 - [Ruby](Ruby.rb), 22 bytes
